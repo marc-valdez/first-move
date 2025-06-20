@@ -4,7 +4,7 @@ version = "1.0.0"
 authors = []
 
 [addresses]
-first_move_addr = "_"
+first_move_addr = "0x2bcc1b685e954c0a9003423771ece8e05bc8ed06e041f5fd84c88fde35c89876"
 
 [dev-addresses]
 
